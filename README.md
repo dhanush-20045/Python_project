@@ -16,20 +16,28 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
 
 ### 🔍 1. Exploratory Data Analysis (`1_EDA_INTRO.ipynb`)
 
- **Goal:** Understand the data science job landscape across roles, countries, and benefits.  
- **Tools Used:** Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets  
- **Main Tasks:**  
-  ● Cleaned and parsed job posting data  
-  ● Visualized top job roles, countries, and companies  
+● **Goal:**  
+  Understand the data science job landscape across roles, countries, and benefits.
+
+● **Tools Used:**  
+  Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
+
+● **Main Tasks:**  
+  ● Cleaned and parsed job posting data 
+  
+  ● Visualized top job roles, countries, and companies
+  
   ● Analyzed key job perks like remote work, degree requirements, and insurance  
-  ● Zoomed in on **Data Analyst roles in India**  
+  ● Zoomed in on **Data Analyst** roles in India  
     ● Identified top cities and hiring companies  
-    ● Explored job benefits specific to this role  
+    ● Explored job benefits specific to this role
+
 ● **Findings:**  
   ● Top roles: **Data Engineer**, **Data Scientist**, **Data Analyst**  
   ● **India** and **USA** dominate job postings  
   ● Many jobs offer **remote work** and have **flexible degree requirements**  
-  ● **Bangalore, Mumbai, Hyderabad** are hot spots for Data Analyst jobs  
+  ● **Bangalore**, **Mumbai**, **Hyderabad** are hot spots for Data Analyst jobs
+
 
 
 
