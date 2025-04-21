@@ -14,45 +14,24 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
 
 5) Optimal Combinations: Python + SQL + BI tool (e.g., Power BI/Tableau) = better opportunities.
 
-# 1. Exploratory Data Analysis 
+### 🔍 1. Exploratory Data Analysis 
 
-### Goal:
+- **Goal:** Understand the data science job landscape across roles, countries, and benefits.
+- **Tools Used:** Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
+- **Main Tasks:**
+  - Cleaned and parsed job posting data
+  - Visualized top job roles, countries, and companies
+  - Analyzed key job perks like remote work, degree requirements, and insurance
+  - Zoomed in on **Data Analyst roles in India**
+    - Identified top cities and hiring companies
+    - Explored job benefits specific to this role
 
-To identify the top companies hiring for Data Analyst roles in the US and understand the distribution of job postings.
+- **Findings:**
+  - Top roles: **Data Engineer**, **Data Scientist**, **Data Analyst**
+  - **India** and **USA** dominate job postings
+  - Many jobs offer **remote work** and have **flexible degree requirements**
+  - **Bangalore, Mumbai, Hyderabad** are hot spots for Data Analyst jobs
 
-### Key Steps:
-
-1) Cleaned and structured the job data (handling missing values, formatting company names).
-
-2) Used value_counts() to identify companies with the most job listings.
-
-3) Visualized the top 10 companies hiring Data Analysts using a horizontal bar chart for easy comparison.
-
-### Insights:
-
-1)Companies like SAZ India, S&P Global, PepsiCo, and JPMorgan Chase & Co. are actively hiring.
-
-2) A few companies dominate the job market, indicating potential target employers.
-
-# 2. Skill Demand Analysis 
-Goal:
-To determine which technical and analytical skills are most commonly required for Data Analyst positions.
-
-### Key Steps:
-
-1) Extracted and cleaned skill keywords from job descriptions.
-
-2) Counted frequency of each skill using tokenization and filtering.
-
-3) Visualized top skills using bar plots and word clouds.
-
-### Insights:
-
-1) Top skills: SQL, Excel, Python, Tableau, Power BI, and Communication.
-
-2) SQL remains the most in-demand skill, followed by BI tools and programming languages.
-
-3) Communication and problem-solving are crucial non-technical skills.
 
 
 
