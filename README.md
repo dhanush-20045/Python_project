@@ -48,7 +48,7 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
   
   ● **Bangalore**, **Mumbai**, **Hyderabad** are hot spots for Data Analyst jobs
 
-  ### 📊 2. Skill Demand Analysis 
+  ### 📊 2. Skill Demand Analysis for Data Analysts in India
 
  **Goal:**  
  
@@ -88,7 +88,7 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
   
   ● Skill demand varies, but Python and SQL are consistently foundational
 
-  ### 📈 3. Skill Trends
+  ### 📈 3. Skill Trends for Data Analyst Roles
 
  **Goal:**  
  
@@ -177,6 +177,64 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
   ● Salary distributions by job title and skill, highlighting key trends in compensation.
 
 This analysis reveals both salary and skill trends in the Data Analyst job market. Let me know if you need further details!
+
+### 📊 5. Optimal Skill Analysis for Data Analysts in India 
+
+ **Goal:** 
+ 
+  Identify the most optimal skills for Data Analysts in India by analyzing skill demand and median salary.
+
+ **Tools Used:**  
+ 
+  Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets, AdjustText
+
+ **Methodology:** 
+ 
+  ● Filtered dataset for **Data Analyst** roles in **India**.  
+  
+  ● Exploded the `job_skills` column to analyze individual skills.
+  
+  ● Calculated the percentage of job postings for each skill.
+  
+  ● Merged skill data with technology categories (e.g., programming, databases, cloud). 
+  
+  ● Plotted scatter plots of median salary vs skill demand percentage, colored by technology.
+
+ **Top Skills Analyzed:**  
+ 
+  ● **Programming:**
+  
+    - **Python**  
+    
+    - **SQL**  
+    
+    - **R**  
+  ● **Analyst Tools:** 
+  
+    - Excel  
+    
+    - Tableau  
+
+ **Key Insights:**  
+ 
+  ● **SQL** and **Excel** show high demand and relatively high median salaries.  
+  
+  ● **Python** also has significant demand but slightly lower median salary than SQL and Excel.
+  
+  ● **Tableau** is in moderate demand, with a higher median salary than Python and R.
+  
+  ● Skills in **programming** technologies (e.g., Python, R, SQL) dominate in demand. 
+  
+  ● Technology categories like **programming**, **cloud**, and **databases** show varying levels of skill prevalence.
+
+ **Visualizations:**  
+ 
+  ● Scatter plot comparing the percentage of job postings requiring each skill and the median salary for those skills.
+  
+  ● Points colored by technology to show trends by category.
+
+This analysis helps identify the most sought-after and high-paying skills for Data Analysts, based on current job market trends.
+
 
 
 
