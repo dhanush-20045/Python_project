@@ -48,6 +48,47 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
   
   ● **Bangalore**, **Mumbai**, **Hyderabad** are hot spots for Data Analyst jobs
 
+  ### 📊 2. Skill Demand Analysis 
+
+ **Goal:**  
+ 
+  Identify the most in-demand skills across top data roles in India.
+
+ **Tools Used:**  
+ 
+  Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
+
+ **Main Tasks:**  
+ 
+  ● Filtered job postings to focus on India
+  
+  ● Extracted and exploded skill lists from job descriptions  
+  
+  ● Counted and ranked skills for each role  
+  
+  ● Converted counts into percentages for better comparison 
+  
+  ● Visualized top 5 skills for each of the top 3 roles
+
+ **Top 3 Roles Analyzed:**  
+ 
+  ● Data Analyst  
+  
+  ● Data Engineer  
+  
+  ● Data Scientist
+
+ **Findings:** 
+ 
+  ● **SQL** and **Python** dominate across all roles  
+  
+  ● **Data Engineers** often require **Spark** and **AWS**
+  
+  ● **Data Scientists** lean heavily on **Machine Learning** and **Python**  
+  
+  ● Skill demand varies, but Python and SQL are consistently foundational
+
+
 
 
 
