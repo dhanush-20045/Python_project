@@ -136,46 +136,48 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
 
 ### 💼 4. Salary Analysis for Data Analyst Roles
 
-**Goal:**  
+ **Goal:**  
 
-   Analyze the salary trends for Data Analyst roles across different job titles and skills, focusing on the United States.
+  Analyze salary trends for Data Analyst roles in the India based on job titles and skills.
 
-**Tools Used:**  
+ **Tools Used:**  
 
-   Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
+  Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
 
-**Methodology:**
+ **Methodology:**  
 
-   ● Filtered the dataset to include only **Data Analyst** positions in the **India**.
- 
-   ● Aggregated salaries by **job title** and **skills** to evaluate median and distribution trends.
- 
-   ● Visualized the salary distributions for the top 6 data job titles using box plots.
- 
-   ● Identified the **highest-paying skills** and the **most in-demand skills** based on median salaries and skill frequency.
-
-**Key Steps in the Analysis:**  
-
-  **Job Title Salary Distribution:**  
+  ● Filtered dataset for **Data Analyst** roles in the **India**.  
   
-    ● Filtered job titles to focus on the top 6 data jobs.
-   
-    ● Analyzed the **median salary** for each job title and visualized using a **box plot**.
-   
-  **Skill-Based Salary Distribution:**  
+  ● Analyzed median salary by **job title** and **skills**.  
   
-    ● Focused on **Data Analyst** roles.
-   
-    ● Used the **explode** function to break down the **job_skills** column into individual rows for skill-level analysis.
-   
-    ● Calculated the **median salary** for each skill and sorted them by highest pay.
+  ● Visualized salary distributions for top 6 job titles and skills.
 
-  **Salary vs Skill:** 
+ **Top Skills Analyzed:**  
+ 
+  ● **Highest-Paid Skills:**  
   
-    ● Identified the **top 10 highest-paying skills** (e.g., **dplyr**, **bitbucket**, **solidity**) by calculating the 
-     median salary for each.
-     
-    ● Identified the **top 10 most in-demand skills** (e.g., **python**, **tableau**,
+    - **dplyr**, **bitbucket**, **gitlab**, **solidity**, **hugging face**  
+
+  ● **Most In-Demand Skills:**  
+  
+    - **Python**, **Tableau**, **R**, **SQL Server**, **Power BI**
+
+ **Key Insights:**  
+ 
+  ● **Data Engineers** and **Data Scientists** have the highest median salaries.  
+  
+  ● **Python** and **SQL** are high-paying and in-demand skills.  
+  
+  ● **BI Tools** (e.g., **Power BI**, **Tableau**) maintain steady demand. 
+  
+  ● Specialized skills like **dplyr** offer high pay but limited demand.
+
+ **Visualizations:**  
+ 
+  ● Salary distributions by job title and skill, highlighting key trends in compensation.
+
+This analysis reveals both salary and skill trends in the Data Analyst job market. Let me know if you need further details!
+
 
 
 
