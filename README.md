@@ -88,6 +88,53 @@ This project explores the Data Analyst job landscape in the US, focusing on the 
   
   ● Skill demand varies, but Python and SQL are consistently foundational
 
+  ### 📈 3. Skill Trends
+
+ **Goal:**  
+ 
+  Track how demand for key skills in Data Analyst roles changes over time in the India.
+
+ **Tools Used:**  
+ 
+  Python (Pandas, Seaborn, Matplotlib), HuggingFace Datasets
+
+ **Methodology:**  
+ 
+  ● Aggregated monthly job postings for Data Analyst roles 
+  
+  ● Exploded skills list for row-wise skill-level granularity
+  
+  ● Created pivot tables of monthly skill counts 
+  
+  ● Normalized counts as percentages of total monthly postings 
+  
+  ● Plotted monthly skill trends for top 5 skills  
+
+ **Top Skills Analyzed (Based on % Share Over Time):**  
+ 
+  ● SQL  
+  
+  ● Excel  
+  
+  ● Tableau 
+  
+  ● Python  
+  
+  ● Power BI  
+
+ **Key Insights:**  
+ 
+  ● **SQL** consistently dominates with over 50–60% presence in job posts
+  
+  ● **Excel** and **Tableau** show steady demand across the year  
+  
+  ● **Python** shows slight upward momentum in later months  
+  
+  ● **Power BI** maintains moderate but consistent demand  
+  
+  ● Trendlines suggest SQL and Python are foundational, while BI tools vary
+
+
 
 
 
